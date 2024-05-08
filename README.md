@@ -1,10 +1,10 @@
 
 
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+<H1 ALIGN=CENTER>Ex-1 Implementation of Bayesian Networks</H1>
 
 <H4> Name : Silambarasan K</H4>
 <H4> Register No : 212221230101</H4>
-<H4>DATE : 06-03-2024</H4>
+<H4>DATE : 19-02-2024</H4>
 
 ### Aim :
 
