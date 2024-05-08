@@ -1,15 +1,17 @@
+
+
+<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
 <H3> Name : Silambarasan K</H3>
 <H3> Register No : 212221230101</H3>
 <H3> Experiment 1</H3>
 <H3>DATE : 06-03-2024</H3>
 
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
-
-## Aim :
+### Aim :
 
 To create a bayesian Network for the given dataset in Python.
     
-## Algorithm:
+### Algorithm:
 
 ### Step 1:
 
@@ -196,16 +198,14 @@ plt.show()
 ## Output:
 
 ### Variable Bands:
-
-![img1](https://github.com/anto-richard/Ex1-AAI/assets/93427534/db2e4f87-1536-477e-b4c9-09cd07e9e739)
-
+<img src="https://github.com/anto-richard/Ex1-AAI/assets/93427534/db2e4f87-1536-477e-b4c9-09cd07e9e739" width="300" height="300">
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://github.com/anto-richard/Ex1-AAI/assets/93427534/ab0bafa4-78f0-492b-82ae-59606c9fc1a4" width="300" height="300">
 
-![img2](https://github.com/anto-richard/Ex1-AAI/assets/93427534/ab0bafa4-78f0-492b-82ae-59606c9fc1a4)
 
 ### Graph:
 
-<img width="760" alt="img3" src="https://github.com/anto-richard/Ex1-AAI/assets/93427534/e96d1a18-e566-4913-9ed9-76c05cf52744">
+<img width="250" height="250" src="https://github.com/anto-richard/Ex1-AAI/assets/93427534/e96d1a18-e566-4913-9ed9-76c05cf52744">
 
 ## Result:
 
