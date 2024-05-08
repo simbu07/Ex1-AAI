@@ -197,9 +197,9 @@ plt.show()
 ## Output:
 
 ### Variable Bands:
-<img src="https://github.com/anto-richard/Ex1-AAI/assets/93427534/db2e4f87-1536-477e-b4c9-09cd07e9e739" width="300" height="300">
+<img src="https://github.com/anto-richard/Ex1-AAI/assets/93427534/db2e4f87-1536-477e-b4c9-09cd07e9e739" width="400" height="400">
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://github.com/anto-richard/Ex1-AAI/assets/93427534/ab0bafa4-78f0-492b-82ae-59606c9fc1a4" width="300" height="300">
+<img src="https://github.com/anto-richard/Ex1-AAI/assets/93427534/ab0bafa4-78f0-492b-82ae-59606c9fc1a4" width="400" height="400">
 
 
 ### Graph:
